@@ -2,13 +2,13 @@
 background: green;
 }
 
-#header {
+.header {
   background: red;
   height: 100px;
   width: 100%;
 }
 
-#navbar {
+.navbar {
   background: orange;
   height: 25px;
   width: 100%;
