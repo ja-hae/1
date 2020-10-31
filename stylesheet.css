@@ -2,12 +2,9 @@
   background: green;
 }
 
-#header {
+.header {
   position: fixed;
   top: 0;
-}
-
-.topbar {
   background: blue;
   height: 25px;
   width: 100%;
@@ -17,5 +14,4 @@
 #headerimg {
   height: auto;
   width: 15%;
-  object-fit: contain;
 }
