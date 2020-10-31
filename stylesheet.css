@@ -1,20 +1,20 @@
 * {
-  background: red;
+  background: green;
 }
 
-.header {
+#header {
   position: fixed;
   top: 0;
 }
 
-#topbar {
+.topbar {
   background: blue;
   height: 25px;
   width: 100%;
   padding: 5%;
 }
 
-.headerimg {
+#headerimg {
   height: auto;
   width: 15%;
   object-fit: contain;
