@@ -1,5 +1,9 @@
+* {
+  background: red;
+}
+
 .header {
-  position: sticky;
+  position: fixed;
   top: 0;
   background: #000000;
   height: 10px;
