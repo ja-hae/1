@@ -5,3 +5,10 @@
 ::-webkit-scrollbar {
   width: 5px;
 }
+
+.logo {
+  position: fixed;
+  top: 0;
+  height: 25%;
+  width: 25%;
+}
