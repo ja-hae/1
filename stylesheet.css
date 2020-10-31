@@ -1,16 +1,7 @@
 * {
-  background: red;
+  background: green;
 }
 
-.header {
-  position: fixed;
-  top: 0;
-  background: blue;
-  height: 15%;
-  width: 100%;
-}
-
-#headerimg {
-  max-height: 100%;
-  max-width: auto;
+::-webkit-scrollbar {
+  width: 5px;
 }
