@@ -9,6 +9,6 @@
 .logo {
   position: fixed;
   top: 0;
-  height: 25%;
-  width: 25%;
+  height: auto;
+  width: 10%;
 }
