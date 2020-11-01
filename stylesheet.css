@@ -17,6 +17,7 @@ html, body {
 
 #banner {
   background: #121111;
+  border-top: 1px solid #ffd04f;
   border-bottom: 1px solid #ffd04f;
   color: #ffd04f;
   position: absolute;
