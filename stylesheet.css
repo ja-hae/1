@@ -22,3 +22,7 @@
   height: 100vh;
   background: red;
 }
+
+#title {
+  font-family: 'Sarina', cursive;
+}
