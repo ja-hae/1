@@ -14,3 +14,9 @@ html, body {
   position: fixed;
   color: #ffd04f;
 }
+
+#banner {
+  background: #3b0704;
+  border-bottom: 1px solid #ffd04f;
+  color: #ffd04f;
+}
