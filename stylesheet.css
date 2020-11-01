@@ -2,6 +2,11 @@
   background: black;
 }
 
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
 #stacker {
   margin: 0;
   padding: 0;
