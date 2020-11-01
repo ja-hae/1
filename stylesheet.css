@@ -1,5 +1,5 @@
 * {
-  background: black;
+  background: white;
 }
 
 #stacker {
@@ -9,7 +9,7 @@
 }
 
 #stack {
-  position: absolute;
+  position: relative;
   height: 10px;
   width: 100%;
 }
