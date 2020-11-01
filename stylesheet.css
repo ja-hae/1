@@ -7,9 +7,14 @@ html, body {
   margin: 0;
 }
 
+.fixedcont {
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+}
+
 #topbar {
   background: #0a0a0a;
-  position: fixed;
   color: #ffd04f;
 }
 
