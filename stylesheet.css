@@ -12,16 +12,19 @@
   position: absolute;
   background: red;
   height: 10px;
+  width:100%;
 }
 
 .banner {
   position: absolute;
   background: green;
   height: 10px;
+  width: 100%;
 }
 
 .header {
   position: absolute;
   background: blue;
   height: 10px;
+  width: 100%;
 }
