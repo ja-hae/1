@@ -14,13 +14,13 @@ html, body {
 }
 
 #topbar {
-  background: #0a0a0a;
+  background: #141212;
   width: 100%;
   color: #ffd04f;
 }
 
 #banner {
-  background: #141313;
+  background: #2b2929;
   width: 100%;
   border-top: 1px solid #ffd04f;
   border-bottom: 1px solid #ffd04f;
