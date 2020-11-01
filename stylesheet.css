@@ -25,7 +25,7 @@ html, body {
   border-top: 1px solid #ffd04f;
   border-bottom: 1px solid #ffd04f;
   color: #ffd04f;
-  position: relative;
+  position: fixed;
   width: 100%;
   font-style: italic;
   padding-left: 33vh;
