@@ -17,8 +17,7 @@
 }
 
 .banner {
-  margin-top: 5%;
-  width: 100%;
+  width: 100vw;
   height: 75vh;
   background: red;
 }
