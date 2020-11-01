@@ -1,5 +1,5 @@
 * {
-  background: #9b2246;
+  background: #9b0000;
 }
 
 html, body {
@@ -15,13 +15,13 @@ html, body {
 }
 
 #topbar {
-  background: #141212;
+  background: #0d0b0b;
   width: 100%;
   color: #ffd04f;
 }
 
 #banner {
-  background: #2b2929;
+  background: #1a1717;
   width: 100%;
   border-top: 1px solid #ffd04f;
   border-bottom: 1px solid #ffd04f;
