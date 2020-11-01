@@ -19,7 +19,7 @@ html, body {
   background: #212020;
   border-bottom: 1px solid #ffd04f;
   color: #ffd04f;
-  position: relative;
+  position: absolute;
 }
 
 #logo {
