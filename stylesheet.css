@@ -30,6 +30,7 @@ body {
   background: green;
   text-align:center;
   padding-top: 5%;
+  background-image: url('/media/image.png');
 }
 
 #title {
