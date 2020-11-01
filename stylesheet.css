@@ -17,10 +17,11 @@ html, body {
 
 #topbartext {
   vertical-align: middle;
+  background: rgba(0, 0, 0, 0)
 }
 
 #banner {
-  background: #121111;
+  background: #211f1f;
   border-top: 1px solid #ffd04f;
   border-bottom: 1px solid #ffd04f;
   color: #ffd04f;
