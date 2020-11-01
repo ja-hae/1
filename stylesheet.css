@@ -5,25 +5,25 @@
 #stacker {
   margin: 0;
   padding: 0;
-  position: relative;
+  position: absolute;
 }
 
 .topbar {
-  position: absolute;
+  position: relative;
   background: red;
   height: 10px;
   width:100%;
 }
 
 .banner {
-  position: absolute;
+  position: relative;
   background: green;
   height: 10px;
   width: 100%;
 }
 
 .header {
-  position: absolute;
+  position: relative;
   background: blue;
   height: 10px;
   width: 100%;
