@@ -11,14 +11,17 @@
 .topbar {
   position: absolute;
   background: red;
+  height: 10px;
 }
 
 .banner {
   position: absolute;
   background: green;
+  height: 10px;
 }
 
 .header {
   position: absolute;
   background: blue;
+  height: 10px;
 }
