@@ -29,10 +29,10 @@ body {
   height: 85vh;
   background: green;
   text-align:center;
+  padding-top: 50%;
 }
 
 #title {
-  margin-top: 40vh;
   font-family: 'Sarina', cursive;
   font-size: 5vw;
   color: red;
