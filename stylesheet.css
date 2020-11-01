@@ -20,11 +20,12 @@ html, body {
   border-bottom: 1px solid #ffd04f;
   color: #ffd04f;
   position: absolute;
+  width: 100%;
   font-style: italic;
 }
 
 #logo {
   background: rgba(0, 0, 0, 0);
-  height: 5vh;
+  height: 10vh;
   width: auto;
 }
