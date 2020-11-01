@@ -7,30 +7,3 @@ html, body {
   margin: 0;
 }
 
-#stacker {
-  margin: 0;
-  padding: 0;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
-
-#stack {
-  position: relative;
-  height: 10px;
-  width: 100%;
-  padding: 5px;
-}
-
-.topbar {
-  background: red;
-}
-
-.banner {
-  background: green;
-}
-
-.header {
-  background: blue;
-}
