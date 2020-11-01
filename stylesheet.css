@@ -10,6 +10,8 @@
 
 #stack {
   position: absolute;
+  height: 10px;
+  width: 100%;
 }
 
 .topbar {
