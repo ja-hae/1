@@ -19,4 +19,11 @@ html, body {
   background: #212020;
   border-bottom: 1px solid #ffd04f;
   color: #ffd04f;
+  position: relative;
+}
+
+#logo {
+  background: rgba(0, 0, 0, 0);
+  height: 5vh;
+  width: auto;
 }
