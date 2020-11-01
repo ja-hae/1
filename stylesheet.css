@@ -32,7 +32,9 @@ body {
 }
 
 #title {
+  margin-top: 40vh;
   font-family: 'Sarina', cursive;
   font-size: 5vw;
   color: black;
+  background: rgba(0, 0, 0, 0);
 }
