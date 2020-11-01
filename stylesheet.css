@@ -7,22 +7,10 @@ html, body {
   margin: 0;
 }
 
-.ovfcont {
-  width: 100%;
-  overflow: hidden;
-}
-
 #topbar {
-  width: 100%;
   background: #0a0a0a;
-  border-bottom: 1px solid #ffd04f;
   position: fixed;
   color: #ffd04f;
-}
-
-#topbartext {
-  vertical-align: middle;
-  background: rgba(0, 0, 0, 0)
 }
 
 #banner {
@@ -30,15 +18,4 @@ html, body {
   border-top: 1px solid #ffd04f;
   border-bottom: 1px solid #ffd04f;
   color: #ffd04f;
-  position: fixed;
-  width: 100%;
-  font-style: italic;
-  padding-left: 33vh;
-}
-
-#logo {
-  background: rgba(0, 0, 0, 0);
-  height: 15vh;
-  padding-left: 2vh;
-  width: auto;
 }
