@@ -8,23 +8,18 @@
   width: 100%;
 }
 
+#stack {
+  position: absolute;
+}
+
 .topbar {
-  position: relative;
   background: red;
-  height: 10px;
-  width:100%;
 }
 
 .banner {
-  position: relative;
   background: green;
-  height: 10px;
-  width: 100%;
 }
 
 .header {
-  position: relative;
   background: blue;
-  height: 10px;
-  width: 100%;
 }
