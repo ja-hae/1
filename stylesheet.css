@@ -17,6 +17,7 @@
 }
 
 .banner {
+  left: 0;
   width: 100vw;
   height: 75vh;
   background: red;
