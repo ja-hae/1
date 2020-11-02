@@ -18,8 +18,6 @@ html, body {
 #topbar {
   background: #080505;
   width: 100%;
-  color: #ffd04f;
-  font-size: 6vh;
 }
 
 #banner {
@@ -29,6 +27,12 @@ html, body {
   border-bottom: 1px solid #ffd04f;
   color: #ffd04f;
   padding-left: 33vw;
+}
+
+#welcomeflair {
+  font-size: 6vh;
+  color: #ffd04f;
+  float: right;
 }
 
 #header {
@@ -45,6 +49,7 @@ html, body {
   top: 0;
   left: 0;
   background:rgba(0, 0, 0, 0);
+  float:left;
 }
 
 #logopic {
