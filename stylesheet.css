@@ -35,5 +35,5 @@ html, body {
   z-index: 1;
   background: url('media/background.png');
   background-size: cover;
-  box-shadow: 0px -20vh 10px -8px #9b0000 inset;
+  box-shadow: 0px -20vh 10vh -8px #9b0000 inset;
 }
