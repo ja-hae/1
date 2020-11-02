@@ -45,11 +45,11 @@ html, body {
   z-index: 3;
   top: 0;
   left: 0;
-  position: fixed;
   background:rgba(0, 0, 0, 0);
 }
 
 #logopic {
   height: 10vh;
   width: auto;
+  background:rgba(0, 0, 0, 0);
 }
