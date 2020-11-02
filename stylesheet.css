@@ -20,6 +20,7 @@ html, body {
   width: 100%;
   color: #ffd04f;
   font-size: 6vh;
+  left: 10vw;
 }
 
 #banner {
@@ -28,6 +29,7 @@ html, body {
   border-top: 1px solid #ffd04f;
   border-bottom: 1px solid #ffd04f;
   color: #ffd04f;
+  left: 33vw;
 }
 
 #header {
