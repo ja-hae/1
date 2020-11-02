@@ -40,9 +40,10 @@ html, body {
 }
 
 #logo {
-  height: 8vh;
+  height: 12vh;
   width: auto;
   z-index: 3;
   top: 0;
   left: 0;
+  position: fixed;
 }
