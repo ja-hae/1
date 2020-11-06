@@ -1,1 +1,15 @@
+* {
+  background: #9b0000;
+  box-sizing: border-box;
+}
 
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.fixed {
+  width: 100%;
+  overflow: hidden;
+  positon: fixed;
+}
