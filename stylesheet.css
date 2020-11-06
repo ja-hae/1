@@ -27,6 +27,12 @@ html, body {
   background: rgba(0, 0, 0, 0);
 }
 
+#banner {
+  background: orange;
+  border-top: 1px solid blue;
+  border-bottom: 1px solid blue;
+}
+
 #header {
   background: url('media/background.png');
   background-size: cover;
