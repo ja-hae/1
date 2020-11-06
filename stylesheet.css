@@ -13,3 +13,11 @@ html, body {
   overflow: hidden;
   positon: fixed;
 }
+
+#header {
+  background: url('media/background.png');
+  background-size: cover;
+  width: 100%;
+  height: 85vh;
+  box-shadow: 0 -10vh 10vh -8px #9b0000 inset;
+}
