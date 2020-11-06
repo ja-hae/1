@@ -23,6 +23,7 @@ html, body {
 #logo {
   max-height: 100%;
   width: auto;
+  background: rgba(0, 0, 0, 0);
 }
 
 #header {
